@@ -17,4 +17,6 @@ body {
 
 #nav-bar a {
     padding-right: 5%;
+    text-decoration: none;
+    color: black;
 }
